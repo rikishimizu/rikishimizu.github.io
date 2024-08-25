@@ -15,6 +15,6 @@ Undergraduate
 ======
 I graduated from Duke University in 2024 with a BSE in Biomedical Engineering, a BSE in Electrical and Computer Engineering, a BS in Mathematics, and minors in Computer Science and Philosophy. I took part in different research projects, supervised by Dr.Pratik Chhatbar, Dr.Leslie Collins, and Dr.Hau-Tieng Wu.
 
-#Outside of Research
-
+Outside of Research
+======
 Outside school, I enjoy weight lifting, running, tennis, and watching movies/shows. One of my favorite hobbies in NYC is going to different museums for free.
