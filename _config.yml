@@ -21,7 +21,7 @@ repository               : "rikishimizu/rikishimizu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_real.png"
   name             : "Riki Shimizu"
   pronouns         : # example: "she/her"  
   bio              : "MS/PhD student at Columbia University."
