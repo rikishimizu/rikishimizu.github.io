@@ -12,7 +12,7 @@ title                    : "Riki Shimizu"
 title_separator          : "-"
 name                     : "Riki Shimizu"
 description              : "MS/PhD student at Columbia University."
-URL                      : "https://rsbci.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://rikishimizu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rikishimizu/rikishimizu.github.io"
 
