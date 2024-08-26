@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+https://rikishimizu.github.io/files/RikiShimizu_CV_Fall2024.pdf
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
