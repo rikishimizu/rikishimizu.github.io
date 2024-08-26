@@ -10,7 +10,7 @@ author_profile: true
 
 # Peer-Reviewed Journal Publications
 
-**Shimizu, R.** Wu, H-T. Unveil Sleep Spindles with Concentration of Frequency and Time (ConceFT). Physiological Measurement. 2024.
+* **Shimizu, R.** Wu, H-T. Unveil Sleep Spindles with Concentration of Frequency and Time (ConceFT). Physiological Measurement. 2024.
 
 # Conference Presentations/Publications
 
