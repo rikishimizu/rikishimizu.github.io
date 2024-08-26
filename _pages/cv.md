@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-https://rikishimizu.github.io/files/RikiShimizu_CV_Fall2024.pdf
+[Download My CV](https://rikishimizu.github.io/files/RikiShimizu_CV_Fall2024.pdf)
 
 Education
 ======
