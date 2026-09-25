@@ -18,3 +18,9 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<style>
+  /* Venue badges removed from papers.bib; reclaim the empty left gutter. */
+  .publications ol.bibliography li .col-sm-2.abbr { display: none; }
+  .publications ol.bibliography li .col-sm-8 { flex: 0 0 100%; max-width: 100%; }
+</style>

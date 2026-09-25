@@ -36,3 +36,9 @@ Alongside that, I work on **interpretability of audio models** — what speech r
 Before Columbia, I graduated from Duke University in 2024 with a B.S.E. in Biomedical Engineering, a B.S.E. in Electrical and Computer Engineering, and a B.S. in Mathematics, with minors in Computer Science and Philosophy. I worked on brain–computer interfaces and biomedical signal processing with Prof. Pratik Chhatbar, Prof. Leslie Collins, and Prof. Hau-Tieng Wu.
 
 Outside of research, I lift, run, play tennis, and teach weekly math and science lessons to elementary school students in Harlem. One of my favorite things about New York is that so many of its museums are free.
+
+<style>
+  /* Venue badges removed from papers.bib; reclaim the empty left gutter. */
+  .publications ol.bibliography li .col-sm-2.abbr { display: none; }
+  .publications ol.bibliography li .col-sm-8 { flex: 0 0 100%; max-width: 100%; }
+</style>
