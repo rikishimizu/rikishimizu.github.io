@@ -1,0 +1,141 @@
+cv:
+  name: Riki Shimizu
+  label: Ph.D. Student, Electrical Engineering, Columbia University
+  email: rs4613@columbia.edu
+  location: New York, NY
+  image: ""
+  summary: Audio AI and neural engineering researcher working on real-time wearable speech enhancement, audio model interpretability, and brain-computer interfaces.
+
+  social_networks:
+    - network: GitHub
+      username: rikishimizu
+    - network: LinkedIn
+      username: rikishimizu
+
+  sections:
+    Education:
+      - institution: Columbia University
+        location: New York, NY
+        url: https://www.ee.columbia.edu/
+        area: Electrical Engineering
+        studyType: Ph.D. (M.S. awarded February 2026)
+        start_date: 2024-08
+        end_date: 2029
+        highlights:
+          - "Advisor: Prof. Nima Mesgarani, Neural Acoustic Processing Lab."
+          - "Research: speech AI, brain-computer interfaces, and multimodal LLMs."
+          - Blavatnik Presidential Fellow.
+
+      - institution: Duke University
+        location: Durham, NC
+        url: https://duke.edu/
+        area: Biomedical Engineering; Electrical & Computer Engineering; Mathematics
+        studyType: B.S.E., B.S.E., B.S.
+        start_date: 2020-08
+        end_date: 2024-05
+        highlights:
+          - "Cum laude. Graduation with Distinction for senior thesis on time-frequency analysis for sleep spindle detection."
+          - "Minors in Computer Science and Philosophy."
+          - "Advisors: Prof. Pratik Chhatbar, Prof. Leslie Collins, and Prof. Hau-Tieng Wu."
+
+    Experience:
+      - company: Neural Acoustic Processing Lab, Columbia University
+        position: Graduate Researcher
+        location: New York, NY
+        start_date: 2024-08
+        summary: Real-time wearable speech enhancement, target speaker extraction, and the relationship between audio model representations and the human auditory cortex.
+        highlights:
+          - Built streaming, low-latency binaural speech models and deployed them on-device via MLX/Metal within a real-time per-chunk budget.
+          - Designed a large-scale spatialized multi-talker audio simulation pipeline and trained on multi-GPU clusters.
+          - Developed MeanFlow-TSE, a one-step generative model for target speaker extraction.
+
+      - company: Meltin MMI Co., Ltd.
+        position: Software Engineering Intern
+        location: Tokyo, Japan
+        start_date: 2022-05
+        end_date: 2022-08
+        highlights:
+          - Built Python models of nerve regeneration with sieve electrodes using diffusion-reaction and stochastic propagation, reducing the electrode prototype testing cycle from months to hours.
+
+      - company: M3, Inc.
+        position: Market Analysis & Consulting Intern
+        location: Tokyo, Japan
+        start_date: 2020-05
+        end_date: 2020-07
+        highlights:
+          - Conducted market research on AI diagnostic imaging using the FDA device database and supported PMDA regulatory submissions.
+
+    Teaching:
+      - company: Columbia University
+        position: Teaching Assistant, Advanced Big Data and AI (EECS E6895)
+        location: New York, NY
+        start_date: 2026-01
+        end_date: 2026-05
+        highlights:
+          - "Instructor: Prof. Ching-Yung Lin."
+
+    Awards:
+      - title: Blavatnik Presidential Fellowship
+        awarder: Columbia Engineering
+        date: 2024
+        summary: The most prestigious PhD fellowship given by Columbia Engineering.
+
+      - title: PRUV Mathematics Fellowship
+        awarder: Duke University
+        date: 2023
+        summary: Competitive undergraduate research fellowship ($3,500).
+
+      - title: Data+ Research Grant
+        awarder: Rhodes Information Initiative at Duke
+        date: 2022
+        summary: Summer research grant for data science projects ($5,000).
+
+      - title: Tau Beta Pi Engineering Honor Society
+        awarder: Duke University
+        date: 2022
+        summary: Inducted as a member of the top 1/8 of the engineering class at Duke University.
+
+      - title: Yanai Tadashi Foundation Scholarship
+        awarder: Yanai Tadashi Foundation
+        date: 2020
+        summary: One of 25 recipients selected nationally in Japan; funded by Tadashi Yanai, founder of UNIQLO, covering college tuition and board ($380,000).
+
+      - title: Japan Representative, International Brain Bee
+        awarder: International Brain Bee
+        date: 2019
+        summary: Represented Japan at the highest-level international neuroscience academic competition for high school students; placed 18th out of 25,000+ competitors worldwide.
+
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, PyTorch, MATLAB, C, LaTeX"
+
+      - name: Machine Learning
+        icon: fa-solid fa-brain
+        keywords: "HuggingFace, SpeechBrain, MLX, ONNX, multi-GPU training, Slurm, on-device and streaming inference"
+
+      - name: Research Areas
+        icon: fa-solid fa-headphones
+        keywords: "Speech separation and target speaker extraction, binaural and spatial audio, low-latency causal models, speech-brain encoding, EEG/EMG signal processing"
+
+    Languages:
+      - name: Japanese
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Bilingual proficiency"
+
+    Volunteer:
+      - company: Common Denominator and Reading Team Math
+        position: Math Tutor
+        location: Harlem, New York, NY
+        start_date: 2024-08
+        highlights:
+          - Teach weekly math lessons to underserved elementary school students in Harlem.
+
+      - company: Saturday Science
+        position: Volunteer
+        location: Harlem, New York, NY
+        start_date: 2024-08
+        highlights:
+          - Teach basic neuroscience concepts to children in Harlem.
